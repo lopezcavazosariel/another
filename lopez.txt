@@ -3,6 +3,10 @@ World
 
 !!!!
 
+<<<<<<< HEAD
 
 
 New line on 11/13/14 is good code
+=======
+Just Add new line and is ok
+>>>>>>> b02afa4145223a1578218c89a633f835c88f3966
